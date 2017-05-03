@@ -1,11 +1,16 @@
-# gpaper
+# 毕业设计论文
 
-[毕业设计论文](contents/README.md)
+[点击查看论文](contents/README.md)
 
 作者： `zyoohv`  
-邮箱： `zyoohv@gmail.com`
+邮箱： `zyoohv@gmail.com`  
+注  ： `本文章仅做学习交流使用，不得个用于商业用途`
+
+## 提交记录
+
+`暂无`
 
 
-* 提交记录
+---
 
-`None`
+更新日期： `2017/05/03`
