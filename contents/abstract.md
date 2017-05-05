@@ -7,7 +7,7 @@
 
 ---
 
-参考：使用**申老师**指导的六句摘要法
+参考：
 
 * Research background
 * Limitation of existing work
